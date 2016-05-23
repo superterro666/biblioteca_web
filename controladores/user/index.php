@@ -13,7 +13,13 @@ if(isset($_GET['type']))
     switch ($_GET['type'])
     {
         
-            
+      case "cargar":
+        
+        $datos = new sqlLibros($data,$db);  
+        $result = $datos->listaLibros();
+        $smarty->assign("items", $items=$result);
+          
+          break;
 
        
         

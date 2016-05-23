@@ -1,5 +1,5 @@
 <?php
-require 'configs/session.php';
+require 'configs/config.php';
 
 
 if(isset($_GET["action"]))
