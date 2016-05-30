@@ -10,9 +10,11 @@
             </div>
             <div class="collapse navbar-collapse navbar-ex1-collapse">
                 <ul id="active" class="nav navbar-nav side-nav">
-                    <li class="selected"><a href="index.php"><i class="fa fa-bullseye"></i>Panel</a></li>
-                    <li><a href="index.php?type=cargar"><i class="fa fa-tasks"></i>Cargar listado</a></li>
+                    <li class="selected"><a href="index.php"><i class="fa fa-bullseye"></i> Panel</a></li>
+
+                    <li><a href="index.php?type=cargar"><i class="fa fa-tasks"></i> Cargar listado</a></li>
                   
+                    <li><a href="index.php?type=cerrar"><i class="fa fa-close"></i> Cerrar</a></li>
               
                 </ul>
               

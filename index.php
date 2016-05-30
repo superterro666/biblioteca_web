@@ -1,5 +1,5 @@
 <?php
-require 'configs/config.php';
+require 'configs/session.php';
 
 
 if(isset($_GET["action"]))
@@ -47,11 +47,12 @@ if(isset($_POST['submit']))
        
         if($_SESSION['type']=='admin')
         {
-            
+           
              header('location:controladores/admin/index.php');  
            
         }else
         {
+          
            
             header('location:controladores/user/index.php');  
         }

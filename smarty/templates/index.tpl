@@ -97,13 +97,13 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 					<h2>Sobre<br/>Nosotros</h2>
 					<span> </span>
 					<div class="col-md-6 aboutus-left">
-						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
-						<p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. </p>
-						<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet., sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.</p>
+						<p>La escuela Progresa ofrece a todos sus alumnos, su biblioteca informatica , en la cual todos los alumnos asociados del centro podran retirar libros para su lectura en casa</p>
+						<p>Con el novedoso sistema de ampliacion de fecha online los alumnos podran ampliar el plazo de alquiler de sus libros asi podra disfrutarlo mas tiempo desde su casa sin tener que venir al centro </p>
+						
 					</div>
 					<div class="col-md-6 aboutus-right">
-						<p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. </p>
-						<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.</p>
+						<p>Todo el servicio es completamente gratuito para los alumnos que cursen alguno de nuestros cursos o ciclos formativos , no lo dudes mas acude a secretaria e inscribete en la biblioteca Progresa</p>
+                                                <p>Cientos de libros te esperan para que los disfrutes</p>
 						<a class="aboutus-right-btn" href="#">MY RESUME</a>
 					</div>
 					<div class="clearfix"> </div>
@@ -113,236 +113,27 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 			<!---- QUOTE ---->
 			<div class="quote text-center">
 				<div class="container">
-					<p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt</p>
+					<p>Nunca estar inscrito en una biblioteca fue tan comodo, como la biblioteca PROGRESA</p>
 				</div>
 			</div>
 			<!---- //QUOTE ---->
-			<!---- WORKS ---->
-			<div id="work" class="works">
-				<div class="container">
-					<h2>MY<br/>WORKS</h2>
-					<span> </span>
-				</div>
-				<!---- partners ---->
-				<div class="partners">
-					<!----sreen-gallery-cursual---->
-						<div class="sreen-gallery-cursual">
-							 <!-- requried-jsfiles-for owl -->
-							<link href="assets/css/owl.carousel.css" rel="stylesheet">
-                                                      
-							    <script src="assets/assets/js/owl.carousel.js"></script> 
-                                                            {literal}
-							        <script>
-							    $(document).ready(function() {
-							      $("#owl-demo").owlCarousel({
-							        items : 5,
-							        lazyLoad : true,
-							        autoPlay : true,
-							        navigation : true,
-							        navigationText :  false,
-							        pagination : false,
-							      });
-							    });
-							    </script>
-                                                            {/literal}
-							 <!-- //requried-jsfiles-for owl -->
-							 <!-- start content_slider -->
-							 <div class="container">
-						       <div id="owl-demo" class="owl-carousel">
-					                <div class="item">
-					                	<img class="lazyOwl" data-src="images/screen1.jpg" alt="screen-name">
-					                	<label>PROJECT TITLE</label>
-					                </div>
-					                <div class="item">
-					                	<img class="lazyOwl" data-src="images/screen2.jpg" alt="screen-name">
-					                	<label>PROJECT TITLE</label>
-					                </div>
-					                <div class="item">
-					                	<img class="lazyOwl" data-src="images/screen3.jpg" alt="screen-name">
-					                	<label>PROJECT TITLE</label>
-					                </div>
-					                <div class="item">
-					                	<img class="lazyOwl" data-src="images/screen4.jpg" alt="screen-name">
-					                	<label>PROJECT TITLE</label>
-					                </div>
-					                <div class="item">
-					                	<img class="lazyOwl" data-src="images/screen5.jpg" alt="screen-name">
-					                	<label>PROJECT TITLE</label>
-					                </div>
-					                <div class="item">
-					                	<img class="lazyOwl" data-src="images/screen1.jpg" alt="screen-name">
-					                	<label>PROJECT TITLE</label>
-					                </div>
-					                <div class="item">
-					                	<img class="lazyOwl" data-src="images/screen2.jpg" alt="screen-name">
-					                	<label>PROJECT TITLE</label>
-					                </div>
-					                <div class="item">
-					                	<img class="lazyOwl" data-src="images/screen3.jpg" alt="screen-name">
-					                	<label>PROJECT TITLE</label>
-					                </div>
-				              </div>
-							</div>
-						<!--//sreen-gallery-cursual---->
-				</div>
-				<!---- //partners ---->
-				<!----project-grid---->
-				<div class="project-grid">
-					<div class="container">
-					<img class="project-screen" src="images/screen.jpg" title="name" />
-					<div class="project-grid-info">
-						<div class="col-md-3 project-grid-info-left">
-							<h3>CLIENT:</h3>
-							<label>Some Company</label>
-							<h3>WEBSITE:</h3>
-							<label><a href="#">http://www.somedomain.com</a></label>
-							<a class="sitedemo" href="#">VISIT LIVE SITE</a>
-						</div>
-						<div class="col-md-9 project-grid-info-left">
-							<h3><a href="#">PROJECT TITLE</a></h3>
-							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.  Velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam uptatem.</p>
-							<ul class="project-share unstyled-list list-inline">
-								<li><a class="p-like" href="#"><label> </label> 144 LIKES</a></li>
-								<li><a class="p-share" href="#"><label> </label> SHARE</a></li>
-							
-							</ul>
-                                                        <div class="clearfix">	</div> 
-						</div>
-						<div class="clearfix"> </div>
-					</div>
-					</div>
-				</div>
-				<!----project-grid---->
-			</div>
-			</div>
-			<!---- //WORKS ---->
-			<!---- TESTIMONIAL ---->
-			<div class="testmonials">
-				<div class="container">
-					<h2>WHAT<br/>THEY SAY</h2>
-					<span> </span>
-				<div class="people-testmonials">
-                                    {literal}
-					 <script>
-							    $(document).ready(function() {
-							      $("#owl-demo1").owlCarousel({
-							        items : 1,
-							        lazyLoad : true,
-							        autoPlay : true,
-							        navigation : false,
-							        navigationText :  false,
-							        pagination : true,
-							      });
-							    });
-						</script>
-                                                {/literal}
-					<div id="owl-demo1" class="owl-carousel">
-					                <div class="item ">
-					                	<p>" Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam. "</p>
-					               		<div class="test-people">
-					               			<div class="test-people-pic">
-					               				<a href="#">
-					               					<img src="images/test-people-pic.png" title="name" />
-					               				</a>
-					               			</div>
-					               			<div class="test-people-info">
-					               				<a href="#">Lily Barnes</a>
-					               				<small>Managing Director ABC Ltd.</small>
-					               			</div>
-					               			<div class="clearfix"> </div>
-					               		</div>
-									</div>
-									<div class="item ">
-					                	<p>" Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam. "</p>
-					               		<div class="test-people">
-					               			<div class="test-people-pic">
-					               				<a href="#">
-					               					<img src="images/test-people-pic.png" title="name" />
-					               				</a>
-					               			</div>
-					               			<div class="test-people-info">
-					               				<a href="#">Lily Barnes</a>
-					               				<small>Managing Director ABC Ltd.</small>
-					               			</div>
-					               			<div class="clearfix"> </div>
-					               		</div>
-									</div>
-									<div class="item ">
-					                	<p>" Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam. "</p>
-					               		<div class="test-people">
-					               			<div class="test-people-pic">
-					               				<a href="#">
-					               					<img src="images/test-people-pic.png" title="name" />
-					               				</a>
-					               			</div>
-					               			<div class="test-people-info">
-					               				<a href="#">Lily Barnes</a>
-					               				<small>Managing Director ABC Ltd.</small>
-					               			</div>
-					               			<div class="clearfix"> </div>
-					               		</div>
-									</div>
-									<div class="item ">
-					                	<p>" Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam. "</p>
-					               		<div class="test-people">
-					               			<div class="test-people-pic">
-					               				<a href="#">
-					               					<img src="images/test-people-pic.png" title="name" />
-					               				</a>
-					               			</div>
-					               			<div class="test-people-info">
-					               				<a href="#">Lily Barnes</a>
-					               				<small>Managing Director ABC Ltd.</small>
-					               			</div>
-					               			<div class="clearfix"> </div>
-					               		</div>
-									</div>
-									<div class="item ">
-					                	<p>" Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam. "</p>
-					               		<div class="test-people">
-					               			<div class="test-people-pic">
-					               				<a href="#">
-					               					<img src="images/test-people-pic.png" title="name" />
-					               				</a>
-					               			</div>
-					               			<div class="test-people-info">
-					               				<a href="#">Lily Barnes</a>
-					               				<small>Managing Director ABC Ltd.</small>
-					               			</div>
-					               			<div class="clearfix"> </div>
-					               		</div>
-									</div>
-									<div class="item ">
-					                	<p>" Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam. "</p>
-					               		<div class="test-people">
-					               			<div class="test-people-pic">
-					               				<a href="#">
-					               					<img src="images/test-people-pic.png" title="name" />
-					               				</a>
-					               			</div>
-					               			<div class="test-people-info">
-					               				<a href="#">Lily Barnes</a>
-					               				<small>Managing Director ABC Ltd.</small>
-					               			</div>
-					               			<div class="clearfix"> </div>
-					               		</div>
-									</div>
-				    </div>
-				</div>
-			</div>
-			</div>
-			<!---- //TESTIMONIAL ---->
+		
+			
+				
+			
+			
+			
 			<!---- CONTACT ----->
 			<div id="contact" class="contact"> 
 				<div class="container">
-					<h2>WAYS TO<br/>CONTACT ME</h2>
+					<h2>COMO VENIR<br/>CONTACTANOS</h2>
 					<span> </span>
 				<!----contact-grids---->
 				<div class="contact-grids">
 					<div class="col-md-6 contact-left">
-						<p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+						<p>OFICINA PROGRESA</p>
 						
-						<p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+						<p>NUNCA VENIR FUE TAN FACIL, AL LADO DE LA PLAZA DE ESPAÑA</p>
 					</div>
 					<div class="col-md-6 contact-right">
 						<p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
